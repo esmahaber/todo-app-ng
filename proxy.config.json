@@ -1,0 +1,6 @@
+{
+    "/": {
+        "target": "https://api.limantech.com/todo",
+        "secure": false
+    }
+}
